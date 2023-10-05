@@ -1,15 +1,13 @@
 
 # Dribble design --> website
 
-This is an animated UI design to working website built using Next js 13, framer motion and vite.
-
-
+This is a dribble design, converted to a Next js 13 app.
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Ajaydeep123/Ahead-app-ui.git
 ```
 
 Go to the project directory
@@ -33,5 +31,5 @@ Start the server
 
 ## Demo
 
-Link to project : 
+Link to project : https://ahead-app-ui.vercel.app/
 
