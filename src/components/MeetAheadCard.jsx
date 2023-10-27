@@ -16,7 +16,7 @@ const MeetAheadCard = () => {
               <p className="text-md text-left">Built Out of Frustration</p>
             </div>
             <div>
-              <p className="text-3xl font-bold">Meet the ahead app</p>
+              <p className="text-3xl font-bold">Meet the greensite App</p>
             </div>
           </div>
         </div>
